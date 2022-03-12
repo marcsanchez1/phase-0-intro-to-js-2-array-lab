@@ -5,9 +5,9 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2022-03-11T20:34:27.996Z",
-    "end": "2022-03-11T20:34:28.385Z",
-    "duration": 389
+    "start": "2022-03-12T01:34:47.302Z",
+    "end": "2022-03-12T01:34:47.780Z",
+    "duration": 478
   },
   "tests": [
     {
@@ -50,7 +50,7 @@
       "title": "removes the first cat from the cats array",
       "fullTitle": "index.js Array functions destructivelyRemoveFirstCat() removes the first cat from the cats array",
       "file": "/Users/marcsanchez/Development/code/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -135,7 +135,7 @@
       "title": "removes the first cat from the cats array",
       "fullTitle": "index.js Array functions destructivelyRemoveFirstCat() removes the first cat from the cats array",
       "file": "/Users/marcsanchez/Development/code/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
